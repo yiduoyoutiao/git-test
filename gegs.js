@@ -1,6 +1,6 @@
 function sample() {
 
-    console.log("hellocccssssc");
+    console.log("33333");
 
 }
 
