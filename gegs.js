@@ -1,6 +1,6 @@
 function sample() {
 
-    console.log("hello")
+    console.log("helloaaa")
 
 }
 
